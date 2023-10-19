@@ -1,9 +1,3 @@
-#### Contributors
-
-1. Abdul Kadir [(@Abdulkadir98)](<https://github.com/Abdulkadir98>) (MSRIT)
-2. Chirag Mittal [(@mittalchirag)](<https://github.com/mittalchirag>) (SRM)
-3. Shashank Holla [(@shashankholla)](<https://github.com/shashankholla>) (RVCE)
-
 <h1 align="center">QEats Restaurant App</h1>
 <h4 align="center">Prototype of a restaurant app of online food ordering service</h4>
 
